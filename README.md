@@ -4,7 +4,11 @@
 > Energy protocol, neuro-recovery & deep work protocols for builders.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/dont-burnout?style=social)](https://github.com/realchendahuang/dont-burnout)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/dont-burnout?style=social)](https://github.com/realchendahuang/dont-burnout/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/dont-burnout)](https://github.com/realchendahuang/dont-burnout/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/dont-burnout/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
